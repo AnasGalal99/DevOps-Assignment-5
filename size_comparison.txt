@@ -1,0 +1,2 @@
+12K	/home/u1/webapp-deploy/backup/config_backup.tar
+4.0K	/home/u1/webapp-deploy/webapp_deploy.tar.gz

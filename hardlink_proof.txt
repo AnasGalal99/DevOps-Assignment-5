@@ -1,0 +1,2 @@
+2493881 -rw-rw-r-- 2 u1 u1 43 Feb 15 18:51 /home/u1/webapp-deploy/backup/production_settings.conf
+2493881 -rw-rw-r-- 2 u1 u1 43 Feb 15 18:51 /home/u1/webapp-deploy/config/app_settings.conf
